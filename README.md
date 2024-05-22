@@ -6,10 +6,12 @@ This is a Simple Note App using Room Database. It includes the following feature
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/06d6a7d5-cf58-4aa5-96e2-c76a3ddc31fd)
-![Screenshot 2](https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/c033039b-8950-484f-9ed9-e59b841f70ec)
-![Screenshot 3](https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/e08f34a3-d30a-4ee6-a5a6-03ad245841d5)
-![Screenshot 4](https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/bef4f5c8-9a0e-4f07-b484-4d9f47203ead)
+<p align="center">
+  <img src="https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/06d6a7d5-cf58-4aa5-96e2-c76a3ddc31fd" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/c033039b-8950-484f-9ed9-e59b841f70ec" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/e08f34a3-d30a-4ee6-a5a6-03ad245841d5" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/TishanPerera/MAD_Lab_Exam4/assets/153063309/bef4f5c8-9a0e-4f07-b484-4d9f47203ead" alt="Screenshot 4" width="200"/>
+</p>
 
 ## Features
 
